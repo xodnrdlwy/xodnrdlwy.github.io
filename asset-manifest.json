@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b4342d92.css",
+    "main.js": "/static/js/main.51c55da7.js",
+    "static/js/787.d5ab7ad5.chunk.js": "/static/js/787.d5ab7ad5.chunk.js",
+    "static/media/profile.jpg": "/static/media/profile.54cee4d238314b62af41.jpg",
+    "static/media/boardhub.png": "/static/media/boardhub.eb78f4cb0dad028ec559.png",
+    "static/media/collectpop.png": "/static/media/collectpop.b2f9da82853af9464750.png",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.38c4d2499557ae0379fd.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.2b56e79ae5013246de29.woff2",
+    "static/media/ouw.png": "/static/media/ouw.cf68a71ca136740c1f6f.png",
+    "static/media/Metropolis-Bold.woff": "/static/media/Metropolis-Bold.f212f74314942ab6daa8.woff",
+    "static/media/Metropolis-SemiBold.woff": "/static/media/Metropolis-SemiBold.b4cbc76341df6165ab43.woff",
+    "static/media/Metropolis-Regular.woff": "/static/media/Metropolis-Regular.68a5b8882d16795ba907.woff",
+    "static/media/Metropolis-Light.woff": "/static/media/Metropolis-Light.4f35e616391de1314354.woff",
+    "static/media/Metropolis-Bold.woff2": "/static/media/Metropolis-Bold.7c28cbaf4e318f06ad6c.woff2",
+    "static/media/Metropolis-Regular.woff2": "/static/media/Metropolis-Regular.f0ad0b8d5782a408d6f9.woff2",
+    "static/media/Metropolis-SemiBold.woff2": "/static/media/Metropolis-SemiBold.e32af1e07bcf34028c62.woff2",
+    "static/media/Metropolis-Light.woff2": "/static/media/Metropolis-Light.3cfb0ca690beb73633ce.woff2",
+    "index.html": "/index.html",
+    "main.b4342d92.css.map": "/static/css/main.b4342d92.css.map",
+    "main.51c55da7.js.map": "/static/js/main.51c55da7.js.map",
+    "787.d5ab7ad5.chunk.js.map": "/static/js/787.d5ab7ad5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4342d92.css",
+    "static/js/main.51c55da7.js"
+  ]
+}
